@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "justatest",
+  "name": "Just A Test",
+  "description": "This is only a test mod for forge 1.12.2.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["Lennert05","JayJay_89"],
+  "credits": "",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
