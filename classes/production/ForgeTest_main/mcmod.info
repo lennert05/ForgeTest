@@ -1,0 +1,16 @@
+[
+{
+  "modid": "justatest",
+  "name": "Just A Test",
+  "description": "This is only a test mod for forge 1.12.2.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Lennert05","JayJay_89"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
