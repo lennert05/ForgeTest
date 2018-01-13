@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "justatest:textures/item/ingot_copper"
+    "layer0": "justatest:item/ingot_copper"
   }
 }

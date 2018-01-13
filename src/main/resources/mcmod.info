@@ -1,7 +1,7 @@
 [
 {
-  "modid": "justatest",
-  "name": "Just A Test",
+  "modid": "${modid}",
+  "name": "${modname}",
   "description": "This is only a test mod for forge 1.12.2.",
   "version": "${version}",
   "mcversion": "${mcversion}",
